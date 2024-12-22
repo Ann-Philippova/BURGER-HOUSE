@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Адаптивная верстка лендинга <a href="https://ann-philippova.github.io/My-Portfolio/#top" target="_blank">БУРГЕР ЧЕДДЕР</a></h1><br>
+  <h1 align="center">Адаптивная верстка лендинга <a href="https://ann-philippova.github.io/BURGERS/" target="_blank">БУРГЕР ЧЕДДЕР</a></h1><br>
   
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/Ann-Philippova/BURGERS/blob/main/images/main_burger.png" alt="Logo" width="750" height="550">
